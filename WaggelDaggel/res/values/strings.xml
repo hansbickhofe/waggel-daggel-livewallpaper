@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WaggelDaggel</string>
+    <string name="settings_title">WaggelDaggel LiveWallpaper Einstellungen</string>
+    <string name="description">WaggelDaggel Live Wallpaper</string>
+	<string name="preference_sensor_summary">Welcher Sensor soll benutzt werden</string>
+	<string name="preference_sensor_title">Sensorauswahl</string>
+</resources>
